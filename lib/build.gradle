@@ -14,19 +14,19 @@ plugins {
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
+}
 
 
-
-        dependencies {
+ dependencies {
             implementation 'com.google.guava:guava:29.0-jre'
             testImplementation 'junit:junit:4.13'
         }
 
-    }
+    
 
 
 
-ask greetingTask() {
+tasks.register('greetingTask') {Task it ->
     doLast {
         String nama = project.hasProperty('nama') ? project.property('nama') : 'Gradle User'
         println "Hello, $nama! Welcome to Gradle World!"
