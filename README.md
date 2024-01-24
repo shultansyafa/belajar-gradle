@@ -8,5 +8,5 @@
 
 
 
-![alt text](![Cuplikan layar 2024-01-24 140428](https://github.com/shultansyafa/belajar-gradle/assets/155574309/c48012db-f3bb-4cc1-81a4-117bd123ee49)
-?raw=true)
+[Cuplikan layar 2024-01-24 140428](https://github.com/shultansyafa/belajar-gradle/assets/155574309/c48012db-f3bb-4cc1-81a4-117bd123ee49)
+
